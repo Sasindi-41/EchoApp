@@ -1,0 +1,49 @@
+
+# =========================================================
+# ECHOAPP - GENERATED FILES & PRIVATE CONFIGURATION
+# =========================================================
+
+# Java build output
+backend/build/
+backend/dist/
+backend/target/
+
+# NetBeans private configuration
+backend/nbproject/private/
+
+# Uploaded user profile images
+backend/web/profile-images/
+
+# Hibernate configuration (may contain database credentials)
+backend/src/java/hibernate.cfg.xml
+
+# Logs
+*.log
+
+# Java compiled files
+*.class
+
+# Expo / React Native
+frontend/node_modules/
+frontend/.expo/
+frontend/dist/
+frontend/web-build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+backend/.env
+backend/.env.*
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
